@@ -1,0 +1,4 @@
+twistseed
+=========
+
+A Mersenne twister
