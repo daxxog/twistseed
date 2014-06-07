@@ -7,9 +7,9 @@ Install
 -------
 stable
 ```bash
-npm install -g twistseed
+npm install twistseed
 ```
 edge
 ```bash
-npm install -g https://github.com/daxxog/twistseed/tarball/master
+npm install https://github.com/daxxog/twistseed/tarball/master
 ```
