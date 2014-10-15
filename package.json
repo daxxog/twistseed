@@ -23,8 +23,5 @@
         "preinstall": "./preinstall.sh",
         "prepublish": "./prepublish.sh",
         "postpublish": "./postpublish.sh"
-    },
-    "bin": {
-        "twistseed" : "./bin/twistseed"
     }
 }
